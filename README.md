@@ -3,7 +3,7 @@
 #### Technical Skills: Java, PHP, Python, JavaScript, HTML5, CSS3, C, C++, GO, Zabbix, Grafana, OpenTelemetry, Grafana Tempo
 
 ## Formação Acadêmica
-- Engenharia da Computação (Bacharelado) | UniCeub (_Junho 2025_)
+- Engenharia da Computação (Bacharelado) UniCeub (_Junho 2025_)
   
 ## Experiências
 **Desenvolvedor Web | Complemento SleepCare (_Junho 2021 - Junho 2022_)**
