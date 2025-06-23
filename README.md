@@ -10,17 +10,17 @@
 - Desenvolvimento e manutenção o site institucional utilizando HTML5, CSS3, WordPress, Elementor e Bootstrap
 - Otimização de performance e usabilidade com foco em experiência do usuário.
 
-** Estagiário FullStack | DiscoverTech (_Junho 2022 - Junho 2023_)**
+**Estagiário FullStack | DiscoverTech (_Junho 2022 - Junho 2023_)**
 - Apoio no desenvolvimento e manutenção de sistemas de gestão e websites utilizando PHP, HTML5, CSS3, Bootstrap e WordPress
 - Aplicação de princípios de programação orientada a objetos (POO) e boas práticas de código.
   
-** Desenvolvedor Java BackEnd | Zeus Software House (Zeussh) (_Janeiro 2024 - Maio 2025_)**
+**Desenvolvedor Java BackEnd | Zeus Software House (Zeussh) (_Janeiro 2024 - Maio 2025_)**
 - Desenvolvimento de aplicações backend com foco em desempenho, utilizando Spring Boot, Spring JPA e Maven.s
 - Testes automatizados com JUnit e Cucumber
 - Integração contínua via Jenkins, controle de qualidade com SonarQube
 - Implantação em ambientes Dockerizados e hospedagem em serviços AWS (EC2, RDS, S3, IAM, SES, SNS, CloudWatch, Config, CloudTrail).
 
-** Estagiário em Infraestrutura de TI | Sicoob (_Agosto 2024 - Atualmente_)**
+**Estagiário em Infraestrutura de TI | Sicoob (_Agosto 2024 - Atualmente_)**
 - Desenvolvimento de scripts e aplicações web com Flask para automação de relatórios e auditorias.
 - Criação de dashboards em Grafana integrados ao Zabbix para monitoramento da infraestrutura.
 - Atualização de sistemas legados para versões modernas de linguagens e ferramentas.
