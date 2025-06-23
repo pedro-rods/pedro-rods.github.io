@@ -51,7 +51,7 @@ Olá! Sou Pedro Rodrigues, estudante de Engenharia da Computação com formaçã
 
 ### [💰 MyFinance](https://github.com/pedro-rods/myFinance)  
 _Plataforma para gerenciamento financeiro pessoal com IA e modelo 50/30/20._  
-**Tecnologias:** Java, Springboot, Python, Flask, HTML5, CSS3, SQLite, IA
+**Tecnologias:** Java, Springboot, Swagger, Python, Flask.
 
 ---
 
