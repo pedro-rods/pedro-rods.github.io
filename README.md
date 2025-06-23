@@ -31,24 +31,24 @@
 ## Projetos
 
 ### MyFinance: uma plataforma inteligente para gerenciamento financeiro pessoal
-[Publication](https://github.com/pedro-rods/myFinance)
+[Link do projeto](https://github.com/pedro-rods/myFinance)
 
 MyFinance é uma aplicação web desenvolvida como Trabalho de Conclusão de Curso (TCC) com o objetivo de auxiliar usuários na gestão de suas finanças pessoais por meio de recursos de inteligência artificial e da aplicação do modelo financeiro 50/30/20. A plataforma foca na privacidade do usuário, não exigindo conexão com contas bancárias, e oferece recomendações personalizadas para o planejamento financeiro.
 
 
 ### Sistema de Loja com emissão de nota fiscal em PHP
-[Publication](https://github.com/pedro-rods/Prototipo-nfephp)
+[Link do projeto](https://github.com/pedro-rods/Prototipo-nfephp)
 
 Este é um protótipo para um sistema que estive desenvolvendo para um projeto Freelancer, utilizando PHP Vanilla e arquitetura MVC para separar as responsabilidades da aplicação, facilitando a manutenção. 
 
 
 ### Multithread com java para operações básicas com um array
-[Publication](https://github.com/pedro-rods/Trabalho-java)
+[Link do projeto](https://github.com/pedro-rods/Trabalho-java)
 
 Neste projeto, o desafio é desenvolver um programa Java que utiliza threads para executar operações básicas em um array de números inteiros. O objetivo principal é explorar o paralelismo e a concorrência, aplicando essas técnicas para calcular métricas e realizar operações sobre um conjunto de dados.
 
 ### Previsão de Gasto Médio com Random Forest
-[Publication](https://github.com/pedro-rods/Projeto-dados-python)
+[Link do projeto](https://github.com/pedro-rods/Projeto-dados-python)
 
 Este projeto tem como objetivo treinar um modelo de regressão usando Random Forest para prever o gasto mensal médio de um novo cliente com base em características como renda, idade, limite de crédito, escolaridade, entre outras.
 
