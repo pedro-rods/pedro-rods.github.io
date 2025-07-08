@@ -50,7 +50,7 @@ Olá! Sou Pedro Rodrigues, formado em Engenharia da Computação pelo UniCeub. D
 ## 🧪 Projetos
 
 ### [💰 MyFinance](https://github.com/pedro-rods/myFinance)  
-_Plataforma para gerenciamento financeiro pessoal com IA e modelo 50/30/20._  
+_Plataforma de gerenciamento financeiro pessoal com modelo inteligente baseado em aprendizado de máquina para análise de perfil de gastos e sugestão de metas personalizadas. Utiliza algoritmos supervisionados e regras heurísticas com Python + Flask._
 **Tecnologias:** Java, Springboot, Swagger, Python, Flask.
 
 ---
