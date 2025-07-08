@@ -2,7 +2,7 @@
 
 ## 📌 Sobre mim
 
-Olá! Sou Pedro Rodrigues, estudante de Engenharia da Computação com formação prevista para **Junho de 2025**. Tenho experiência em desenvolvimento backend, automação de tarefas, observabilidade e infraestrutura em nuvem. Trabalho com tecnologias como **Spring Boot, Docker, Python/Flask, Grafana e Zabbix**, e sou apaixonado por resolver problemas com código limpo, escalável e de qualidade.
+Olá! Sou Pedro Rodrigues, formado em Engenharia da Computação pelo UniCeub. Desenvolvedor back-end com mais de 3 anos de experiência no desenvolvimento e manutenção de sistemas escaláveis, com sólido conhecimento em Java, Python, PHP e JavaScript. Também possuo experiência prática com criação e fine-tuning de modelos de machine learning.
 
 ---
 
