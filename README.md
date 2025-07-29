@@ -81,6 +81,7 @@ _Modelo de regressão para prever gastos mensais com base em características pe
 - **Python 3 Completo (Django, Selenium, RegExp, TDD, Pyside6)** — _(Out 2023)_
 - **PHP do Zero ao Profissional — B7Web** — _(Dez 2023)_
 - **Java com Spring Boot, JPA, Maven — Completo** — _(Dez 2023)_
+- **AWS Academy Cloud Foundations** — _(Abr 2024)_
 
 ---
 
