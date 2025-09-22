@@ -2,7 +2,7 @@
 
 ## 📌 Sobre mim
 
-Olá! Sou Pedro Rodrigues, formado em Engenharia da Computação pelo UniCeub. Desenvolvedor back-end com mais de 3 anos de experiência no desenvolvimento e manutenção de sistemas escaláveis, com sólido conhecimento em Java, Python, PHP e JavaScript. Também possuo experiência prática com criação e fine-tuning de modelos de machine learning.
+Olá! Sou Pedro Rodrigues, formado em Engenharia da Computação pelo UniCeub. Desenvolvedor FullStack com mais de 3 anos de experiência no desenvolvimento e manutenção de sistemas escaláveis, com sólido conhecimento em Angular, React, Java, Python, PHP e JavaScript. Também possuo experiência prática com criação e fine-tuning de modelos de machine learning.
 
 ---
 
@@ -32,13 +32,13 @@ Olá! Sou Pedro Rodrigues, formado em Engenharia da Computação pelo UniCeub. D
 - Desenvolvimento de sistemas de gestão e websites com PHP, HTML5, CSS3, Bootstrap e WordPress.
 - Aplicação de POO e boas práticas de código.
 
-**Desenvolvedor Java BackEnd | Zeus Software House (Zeussh)** _(Jan 2024 – Mai 2025)_
-- Aplicações backend com foco em desempenho usando Spring Boot, JPA e Maven.
+**Desenvolvedor Java FullStack | Zeus Software House (Zeussh)** _(Jan 2024 – Mai 2025)_
+- Aplicações FullStack com foco em desempenho usando Angular, Spring Boot, JPA e Maven.
 - Testes automatizados com JUnit e Cucumber.
 - CI/CD com Jenkins, SonarQube e Docker.
 - Deploy em AWS (EC2, RDS, S3, IAM, SES, SNS, CloudWatch, Config, CloudTrail).
 
-**Estagiário em Infraestrutura de TI | Sicoob** _(Ago 2024 – Atualmente)_
+**Estagiário em Infraestrutura de TI | Sicoob** _(Ago 2024 – Set 2025)_
 - Automação de relatórios e auditorias com Flask.
 - Dashboards Grafana integrados ao Zabbix para monitoramento de infraestrutura.
 - Atualização de sistemas legados.
